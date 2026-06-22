@@ -1,4 +1,4 @@
-# Real-Life-Implementation-of-DSA
+
 # Project 1: Inventory Management System 📦
 
 A desktop-based Inventory Management System built using **Core Java, Java Swing, OOP, and HashMap**. The application allows users to perform complete **CRUD operations** on products through a graphical user interface.
